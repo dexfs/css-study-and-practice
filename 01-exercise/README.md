@@ -1,0 +1,7 @@
+- [x] 1.Style the above tag to use any color of your choice and a sans-serif font.
+- [x] 2.Style all <code> tags to use the monospace font-family and have red text.
+- [x] 3.Use class selector to ensure that the <code> elements in the second <li> element have a different color (e.g green).
+- [x] 4.Switch the order of the rules you created and use the dev tools of your browser to understand how specifity resolves the conflicts (for the <code> elements).
+- [x] 5.Set a default font(e.g sans-serif) for the entire content of your page and use "Inheritence" to change the font of the <li> items, too.
+- [x] 6.Use a combinator to give all <li> elements but the first on (!) a black background and white text color (don't worry if the numbers disappear).
+- [x] 7.Use another combinator to now give all <li> inside an <ol> element a black background and white text color.
